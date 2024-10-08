@@ -22,7 +22,7 @@ Compared to the Python version (OWASPCheck.py), **OWASPCheck.go** is designed to
 Using OWASPCheck.go is simple, especially for developers already familiar with Golang. Follow these steps:
 
 #### 1. Clone the Project
-First, clone the OWASPCheck.go repository:
+First, clone the owaspcheck.go repository:
 
 ```bash
 git clone https://github.com/alibaykara/OWASPCheck.go.git
@@ -30,7 +30,7 @@ git clone https://github.com/alibaykara/OWASPCheck.go.git
 
 #### 2. Navigate to the Project Directory
 ```bash
-cd OWASPCheck.go
+cd owaspcheck.go
 ```
 
 #### 3. Build the Project
