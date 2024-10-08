@@ -1,6 +1,6 @@
 **Introducing OWASPCheck.go: A Go-based OWASP Top 10 Vulnerability Scanner**
 
-In an era where digital security is crucial, ensuring that your web applications are protected against common vulnerabilities is a must. OWASP (Open Web Application Security Project) provides a globally recognized Top 10 list of the most critical security risks for web applications. To help developers and security professionals easily identify these risks, we are excited to introduce **OWASPCheck.go**—a Go-based version of the popular OWASPCheck tool.
+In an era where digital security is crucial, ensuring that your web applications are protected against common vulnerabilities is a must. OWASP (Open Web Application Security Project) provides a globally recognized Top 10 list of the most critical security risks for web applications. To help developers and security professionals easily identify these risks, we are excited to introduce **OWASPCheck.go** Go-based version of the popular OWASPCheck tool.
 
 ### Why Go?
 Golang (Go) has gained significant popularity due to its speed, simplicity, and ability to handle concurrency efficiently. By leveraging Go, **OWASPCheck.go** provides faster scanning, better performance, and ease of use in modern development environments. It's particularly suited for applications requiring low latency and high throughput, making it an excellent choice for security tools.
